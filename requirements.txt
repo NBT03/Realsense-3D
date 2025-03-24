@@ -1,0 +1,1 @@
+pyrealsense2 opencv-python numpy torch ultralytics
