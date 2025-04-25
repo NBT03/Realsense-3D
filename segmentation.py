@@ -52,7 +52,7 @@ def main():
     pipeline = initialize_camera()
     
     # Tải model YOLOv11 với khả năng segmentation
-    model = YOLO('yolov11s-seg.pt')  # Thay thế bằng đường dẫn chính xác đến model
+    model = YOLO('best.pt')  # Thay thế bằng đường dẫn chính xác đến model
     
     try:
         while True:

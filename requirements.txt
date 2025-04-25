@@ -1,1 +1,5 @@
-pyrealsense2 opencv-python numpy torch ultralytics
+pyrealsense2 
+opencv-python 
+numpy 
+torch 
+ultralytics
